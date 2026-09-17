@@ -1,1 +1,1 @@
-# G-n-rateur-de-blog-OpenIA
+# Generateur-de-blog-OpenIA
